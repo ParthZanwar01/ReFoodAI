@@ -1,0 +1,301 @@
+pickup_id,date,pickup_time,source_location,destination_partner,food_type,quantity_lbs,distance_miles,volunteer_driver,transport_cost,meals_equivalent,co2_saved_lbs,pickup_status
+PU0001,2024-05-04,09:15,University Cafeteria,Shelter Kitchen,prepared_meals,35.0,8.5,Peyton Allen,1.65,42.0,133.0,completed
+PU0002,2024-01-30,13:45,Farmers Market,Senior Center,fresh_produce,49.4,6.6,Cameron Davis,1.28,59.3,187.7,completed
+PU0003,2024-05-22,07:30,Grocery Store,Shelter Kitchen,meat,55.4,10.5,Jordan Lee,2.04,66.5,210.5,completed
+PU0004,2024-01-28,17:00,University Cafeteria,Youth Outreach,prepared_meals,72.2,10.5,Skylar Phillips,2.04,86.6,274.4,completed
+PU0005,2024-03-30,15:45,Bakery,Hope Homeless Shelter,baked_goods,49.8,19.8,Quinn Rivera,3.85,59.8,189.2,completed
+PU0006,2024-04-06,12:45,Farmers Market,Hope Homeless Shelter,fresh_produce,71.7,7.5,Robin Kim,1.46,86.0,272.5,rescheduled
+PU0007,2024-04-06,17:00,Corporate Cafeteria,Shelter Kitchen,prepared_meals,50.8,12.6,Cameron Davis,2.45,61.0,193.0,completed
+PU0008,2024-03-12,09:30,University Cafeteria,Community Center,prepared_meals,101.5,6.1,Morgan Smith,1.19,121.8,385.7,completed
+PU0009,2024-06-23,15:45,Grocery Store,Community Center,baked_goods,47.4,3.7,Peyton Allen,0.72,56.9,180.1,completed
+PU0010,2024-04-23,09:00,Farmers Market,Community Center,fresh_produce,42.1,19.7,Peyton Allen,3.83,50.5,160.0,rescheduled
+PU0011,2024-06-26,12:15,Grocery Store,Shelter Kitchen,meat,20.2,17.9,Robin Kim,3.48,24.2,76.8,completed
+PU0012,2024-02-03,08:15,Farmers Market,City Food Bank,fresh_produce,87.5,9.5,Jamie Brown,1.85,105.0,332.5,completed
+PU0013,2024-05-27,09:30,Corporate Cafeteria,Hope Homeless Shelter,baked_goods,27.5,8.1,Alex Martinez,1.57,33.0,104.5,completed
+PU0014,2024-05-04,19:45,Bakery,Shelter Kitchen,meat,63.2,19.9,Riley Johnson,3.87,75.8,240.2,completed
+PU0015,2024-05-27,12:00,University Cafeteria,City Food Bank,prepared_meals,82.6,7.8,Avery Clark,1.52,99.1,313.9,rescheduled
+PU0016,2024-02-25,08:30,Grocery Store,Senior Center,dairy,87.9,17.5,Sam Chen,3.4,105.5,334.0,completed
+PU0017,2024-05-23,07:00,University Cafeteria,Youth Outreach,prepared_meals,27.9,23.9,Casey Patel,4.65,33.5,106.0,completed
+PU0018,2024-02-22,13:45,Grocery Store,Senior Center,dairy,20.0,21.2,Casey Patel,4.12,24.0,76.0,completed
+PU0019,2024-06-16,10:45,Farmers Market,Community Center,fresh_produce,60.1,13.3,Taylor Nguyen,2.59,72.1,228.4,cancelled
+PU0020,2024-01-13,07:45,Corporate Cafeteria,Senior Center,prepared_meals,11.3,11.1,Quinn Rivera,2.16,13.6,42.9,completed
+PU0021,2024-02-28,10:30,Farmers Market,Hope Homeless Shelter,fresh_produce,31.1,6.3,Taylor Nguyen,1.22,37.3,118.2,rescheduled
+PU0022,2024-03-12,08:30,Bakery,City Food Bank,fresh_produce,62.5,6.4,Jordan Lee,1.24,75.0,237.5,completed
+PU0023,2024-03-06,17:45,Local Restaurant,City Food Bank,dairy,59.0,6.4,Peyton Allen,1.24,70.8,224.2,completed
+PU0024,2024-04-23,17:15,Farmers Market,Senior Center,dairy,63.5,14.1,Robin Kim,2.74,76.2,241.3,completed
+PU0025,2024-02-10,17:30,Local Restaurant,Youth Outreach,baked_goods,36.9,13.5,Avery Clark,2.62,44.3,140.2,completed
+PU0026,2024-04-26,19:30,Corporate Cafeteria,Youth Outreach,baked_goods,33.9,20.2,Cameron Davis,3.93,40.7,128.8,completed
+PU0027,2024-02-28,18:30,Grocery Store,Community Center,fresh_produce,91.1,21.2,Cameron Davis,4.12,109.3,346.2,completed
+PU0028,2024-01-31,10:00,Grocery Store,City Food Bank,dairy,45.0,3.7,Peyton Allen,0.72,54.0,171.0,completed
+PU0029,2024-02-08,17:15,Bakery,Community Center,baked_goods,53.8,19.7,Morgan Smith,3.83,64.6,204.4,completed
+PU0030,2024-02-16,14:15,Farmers Market,Youth Outreach,fresh_produce,53.9,17.0,Morgan Smith,3.31,64.7,204.8,completed
+PU0031,2024-04-25,18:00,Local Restaurant,City Food Bank,fresh_produce,76.3,12.4,Quinn Rivera,2.41,91.6,289.9,completed
+PU0032,2024-04-05,13:30,Farmers Market,Shelter Kitchen,prepared_meals,67.3,6.4,Robin Kim,1.24,80.8,255.7,completed
+PU0033,2024-04-06,18:45,Local Restaurant,Hope Homeless Shelter,prepared_meals,44.5,22.7,Riley Johnson,4.41,53.4,169.1,completed
+PU0034,2024-03-27,09:00,University Cafeteria,Community Center,prepared_meals,50.2,14.1,Skylar Phillips,2.74,60.2,190.8,completed
+PU0035,2024-02-13,16:00,Farmers Market,Senior Center,dairy,5.0,23.0,Casey Patel,4.47,6.0,19.0,completed
+PU0036,2024-01-24,15:00,Corporate Cafeteria,Community Center,prepared_meals,32.8,23.0,Riley Johnson,4.47,39.4,124.6,completed
+PU0037,2024-01-22,18:45,University Cafeteria,Hope Homeless Shelter,prepared_meals,73.7,17.9,Taylor Nguyen,3.48,88.4,280.1,completed
+PU0038,2024-01-14,17:00,Grocery Store,Hope Homeless Shelter,baked_goods,15.9,11.3,Cameron Davis,2.2,19.1,60.4,completed
+PU0039,2024-04-15,08:30,University Cafeteria,City Food Bank,meat,53.7,2.2,Robin Kim,0.43,64.4,204.1,completed
+PU0040,2024-05-30,07:45,Corporate Cafeteria,City Food Bank,fresh_produce,44.5,23.0,Jamie Brown,4.47,53.4,169.1,completed
+PU0041,2024-06-09,16:00,Grocery Store,Youth Outreach,fresh_produce,56.3,14.0,Morgan Smith,2.72,67.6,213.9,cancelled
+PU0042,2024-06-15,12:45,Farmers Market,Senior Center,fresh_produce,5.0,9.4,Morgan Smith,1.83,6.0,19.0,completed
+PU0043,2024-05-14,11:45,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,22.7,17.6,Quinn Rivera,3.42,27.2,86.3,completed
+PU0044,2024-04-11,19:00,Local Restaurant,Senior Center,prepared_meals,30.8,23.3,Casey Patel,4.53,37.0,117.0,completed
+PU0045,2024-04-28,09:00,Local Restaurant,Youth Outreach,beverages,61.2,17.7,Sam Chen,3.44,73.4,232.6,completed
+PU0046,2024-05-03,15:00,Bakery,Community Center,baked_goods,38.4,8.2,Avery Clark,1.59,46.1,145.9,completed
+PU0047,2024-05-09,09:15,Bakery,Hope Homeless Shelter,baked_goods,46.4,10.8,Robin Kim,2.1,55.7,176.3,completed
+PU0048,2024-05-02,15:45,Bakery,Youth Outreach,baked_goods,17.2,16.5,Jordan Lee,3.21,20.6,65.4,completed
+PU0049,2024-01-07,13:30,Grocery Store,Shelter Kitchen,meat,71.0,9.1,Peyton Allen,1.77,85.2,269.8,completed
+PU0050,2024-03-17,10:15,University Cafeteria,Senior Center,prepared_meals,77.7,15.1,Jordan Lee,2.94,93.2,295.3,completed
+PU0051,2024-02-12,12:45,Grocery Store,Hope Homeless Shelter,baked_goods,71.0,6.2,Casey Patel,1.21,85.2,269.8,completed
+PU0052,2024-06-28,11:30,Grocery Store,Senior Center,dairy,69.8,19.9,Dana Lopez,3.87,83.8,265.2,completed
+PU0053,2024-06-01,18:00,University Cafeteria,City Food Bank,meat,40.9,6.9,Robin Kim,1.34,49.1,155.4,completed
+PU0054,2024-06-23,19:30,University Cafeteria,Senior Center,prepared_meals,32.9,2.6,Avery Clark,0.51,39.5,125.0,completed
+PU0055,2024-05-12,17:15,Local Restaurant,Shelter Kitchen,prepared_meals,63.4,22.1,Robin Kim,4.3,76.1,240.9,completed
+PU0056,2024-01-20,07:30,Grocery Store,Hope Homeless Shelter,baked_goods,20.1,1.0,Casey Patel,0.19,24.1,76.4,completed
+PU0057,2024-02-29,13:45,Corporate Cafeteria,Youth Outreach,baked_goods,45.4,9.9,Dana Lopez,1.93,54.5,172.5,completed
+PU0058,2024-03-01,10:00,Bakery,Shelter Kitchen,baked_goods,44.5,22.7,Riley Johnson,4.41,53.4,169.1,completed
+PU0059,2024-02-25,09:00,Farmers Market,Shelter Kitchen,meat,37.4,5.8,Quinn Rivera,1.13,44.9,142.1,completed
+PU0060,2024-02-25,07:45,Local Restaurant,City Food Bank,fresh_produce,55.2,8.7,Avery Clark,1.69,66.2,209.8,completed
+PU0061,2024-03-03,17:45,Farmers Market,Senior Center,fresh_produce,66.9,16.2,Jordan Lee,3.15,80.3,254.2,completed
+PU0062,2024-04-06,16:00,Bakery,City Food Bank,baked_goods,108.4,19.3,Peyton Allen,3.75,130.1,411.9,completed
+PU0063,2024-06-26,14:30,Bakery,Shelter Kitchen,meat,22.1,13.0,Peyton Allen,2.53,26.5,84.0,completed
+PU0064,2024-02-23,15:15,Farmers Market,Hope Homeless Shelter,fresh_produce,20.6,7.5,Quinn Rivera,1.46,24.7,78.3,completed
+PU0065,2024-06-20,14:45,Grocery Store,Senior Center,dairy,13.1,18.0,Peyton Allen,3.5,15.7,49.8,cancelled
+PU0066,2024-04-21,12:15,Bakery,Community Center,baked_goods,35.2,9.1,Casey Patel,1.77,42.2,133.8,completed
+PU0067,2024-04-20,13:45,Grocery Store,Hope Homeless Shelter,baked_goods,57.7,20.3,Riley Johnson,3.95,69.2,219.3,completed
+PU0068,2024-03-10,08:00,Bakery,City Food Bank,dairy,69.7,16.3,Morgan Smith,3.17,83.6,264.9,completed
+PU0069,2024-01-07,13:45,Bakery,Hope Homeless Shelter,baked_goods,78.8,8.1,Robin Kim,1.57,94.6,299.4,cancelled
+PU0070,2024-04-28,13:15,Bakery,City Food Bank,meat,49.7,17.7,Cameron Davis,3.44,59.6,188.9,cancelled
+PU0071,2024-06-24,14:00,Grocery Store,Hope Homeless Shelter,baked_goods,55.3,4.4,Quinn Rivera,0.86,66.4,210.1,completed
+PU0072,2024-01-18,19:00,Farmers Market,City Food Bank,fresh_produce,27.5,7.3,Taylor Nguyen,1.42,33.0,104.5,completed
+PU0073,2024-03-23,13:45,Farmers Market,Shelter Kitchen,fresh_produce,5.0,19.2,Cameron Davis,3.73,6.0,19.0,rescheduled
+PU0074,2024-05-28,18:45,Farmers Market,Shelter Kitchen,fresh_produce,25.0,9.8,Quinn Rivera,1.91,30.0,95.0,completed
+PU0075,2024-04-27,07:15,University Cafeteria,Senior Center,prepared_meals,85.3,16.0,Jamie Brown,3.11,102.4,324.1,completed
+PU0076,2024-05-27,17:00,Local Restaurant,Community Center,prepared_meals,74.1,9.3,Casey Patel,1.81,88.9,281.6,completed
+PU0077,2024-01-19,15:30,Corporate Cafeteria,City Food Bank,meat,45.6,14.6,Riley Johnson,2.84,54.7,173.3,completed
+PU0078,2024-04-26,09:00,Bakery,Hope Homeless Shelter,baked_goods,69.8,9.8,Alex Martinez,1.91,83.8,265.2,completed
+PU0079,2024-06-23,14:15,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,106.3,17.1,Casey Patel,3.33,127.6,403.9,rescheduled
+PU0080,2024-04-27,10:15,Grocery Store,Youth Outreach,fresh_produce,51.3,18.1,Robin Kim,3.52,61.6,194.9,completed
+PU0081,2024-01-02,13:45,Farmers Market,City Food Bank,fresh_produce,74.4,22.1,Dana Lopez,4.3,89.3,282.7,completed
+PU0082,2024-03-18,15:30,University Cafeteria,Youth Outreach,prepared_meals,63.2,14.0,Riley Johnson,2.72,75.8,240.2,completed
+PU0083,2024-06-02,12:00,Corporate Cafeteria,Community Center,baked_goods,41.1,5.5,Dana Lopez,1.07,49.3,156.2,completed
+PU0084,2024-06-18,14:15,Farmers Market,Youth Outreach,fresh_produce,113.1,17.5,Skylar Phillips,3.4,135.7,429.8,completed
+PU0085,2024-06-13,09:00,Corporate Cafeteria,Youth Outreach,baked_goods,32.9,17.6,Taylor Nguyen,3.42,39.5,125.0,completed
+PU0086,2024-05-28,15:15,University Cafeteria,Senior Center,prepared_meals,66.3,24.5,Dana Lopez,4.76,79.6,251.9,completed
+PU0087,2024-06-29,12:45,Corporate Cafeteria,Shelter Kitchen,prepared_meals,62.1,24.6,Robin Kim,4.78,74.5,236.0,completed
+PU0088,2024-04-05,10:30,Farmers Market,Youth Outreach,fresh_produce,29.0,14.5,Jordan Lee,2.82,34.8,110.2,completed
+PU0089,2024-05-01,09:15,Bakery,Hope Homeless Shelter,baked_goods,41.1,19.0,Morgan Smith,3.69,49.3,156.2,completed
+PU0090,2024-02-06,16:00,Corporate Cafeteria,Shelter Kitchen,prepared_meals,45.3,11.2,Peyton Allen,2.18,54.4,172.1,completed
+PU0091,2024-04-14,12:45,Local Restaurant,Hope Homeless Shelter,prepared_meals,73.8,21.4,Skylar Phillips,4.16,88.6,280.4,completed
+PU0092,2024-01-12,11:00,Farmers Market,Senior Center,dairy,45.8,22.0,Taylor Nguyen,4.28,55.0,174.0,completed
+PU0093,2024-03-27,12:00,Grocery Store,Community Center,baked_goods,55.9,13.1,Dana Lopez,2.55,67.1,212.4,rescheduled
+PU0094,2024-03-26,09:45,Bakery,Senior Center,baked_goods,76.7,2.7,Morgan Smith,0.53,92.0,291.5,completed
+PU0095,2024-03-31,08:00,Farmers Market,City Food Bank,fresh_produce,100.5,1.5,Dana Lopez,0.29,120.6,381.9,completed
+PU0096,2024-06-13,14:30,Local Restaurant,Community Center,prepared_meals,12.5,1.7,Riley Johnson,0.33,15.0,47.5,completed
+PU0097,2024-01-13,15:45,Corporate Cafeteria,Hope Homeless Shelter,baked_goods,44.7,18.0,Cameron Davis,3.5,53.6,169.9,cancelled
+PU0098,2024-01-30,11:00,Farmers Market,Youth Outreach,fresh_produce,66.1,1.8,Morgan Smith,0.35,79.3,251.2,completed
+PU0099,2024-04-18,17:00,Bakery,Hope Homeless Shelter,baked_goods,52.0,8.8,Casey Patel,1.71,62.4,197.6,completed
+PU0100,2024-06-15,17:30,Local Restaurant,Senior Center,prepared_meals,101.6,12.9,Peyton Allen,2.51,121.9,386.1,rescheduled
+PU0101,2024-03-24,07:00,Farmers Market,Shelter Kitchen,prepared_meals,34.3,3.6,Avery Clark,0.7,41.2,130.3,rescheduled
+PU0102,2024-03-03,15:30,Farmers Market,Shelter Kitchen,fresh_produce,21.4,13.8,Morgan Smith,2.68,25.7,81.3,completed
+PU0103,2024-01-18,17:30,University Cafeteria,Hope Homeless Shelter,prepared_meals,36.4,10.5,Peyton Allen,2.04,43.7,138.3,completed
+PU0104,2024-06-07,12:15,Corporate Cafeteria,Youth Outreach,baked_goods,67.5,5.9,Jordan Lee,1.15,81.0,256.5,completed
+PU0105,2024-05-18,09:45,Local Restaurant,Shelter Kitchen,prepared_meals,90.9,8.6,Quinn Rivera,1.67,109.1,345.4,completed
+PU0106,2024-02-23,07:45,Bakery,Senior Center,baked_goods,54.1,21.5,Taylor Nguyen,4.18,64.9,205.6,cancelled
+PU0107,2024-01-09,13:45,Corporate Cafeteria,Senior Center,prepared_meals,72.5,3.9,Cameron Davis,0.76,87.0,275.5,completed
+PU0108,2024-01-04,08:15,Bakery,City Food Bank,fresh_produce,60.9,6.6,Jamie Brown,1.28,73.1,231.4,completed
+PU0109,2024-01-26,17:45,Local Restaurant,Shelter Kitchen,prepared_meals,12.1,9.5,Morgan Smith,1.85,14.5,46.0,completed
+PU0110,2024-03-04,13:00,University Cafeteria,Youth Outreach,fresh_produce,60.1,3.5,Morgan Smith,0.68,72.1,228.4,completed
+PU0111,2024-04-09,18:45,Local Restaurant,Hope Homeless Shelter,prepared_meals,82.6,21.1,Peyton Allen,4.1,99.1,313.9,completed
+PU0112,2024-02-10,18:00,Local Restaurant,Hope Homeless Shelter,prepared_meals,18.2,13.0,Cameron Davis,2.53,21.8,69.2,completed
+PU0113,2024-03-09,18:15,University Cafeteria,City Food Bank,prepared_meals,17.2,15.3,Robin Kim,2.98,20.6,65.4,completed
+PU0114,2024-06-14,19:15,Farmers Market,City Food Bank,fresh_produce,34.3,6.6,Jordan Lee,1.28,41.2,130.3,completed
+PU0115,2024-06-14,11:30,Grocery Store,City Food Bank,dairy,23.1,8.0,Avery Clark,1.56,27.7,87.8,completed
+PU0116,2024-05-19,15:00,Corporate Cafeteria,Community Center,prepared_meals,78.3,24.5,Peyton Allen,4.76,94.0,297.5,completed
+PU0117,2024-05-03,18:00,Corporate Cafeteria,Community Center,prepared_meals,64.3,21.1,Skylar Phillips,4.1,77.2,244.3,rescheduled
+PU0118,2024-05-26,10:15,University Cafeteria,City Food Bank,meat,58.2,15.8,Quinn Rivera,3.07,69.8,221.2,cancelled
+PU0119,2024-01-25,19:30,Bakery,Community Center,baked_goods,21.8,2.3,Sam Chen,0.45,26.2,82.8,completed
+PU0120,2024-01-06,11:15,Local Restaurant,Hope Homeless Shelter,prepared_meals,94.3,8.1,Cameron Davis,1.57,113.2,358.3,completed
+PU0121,2024-04-13,08:30,Farmers Market,Senior Center,prepared_meals,32.6,7.4,Skylar Phillips,1.44,39.1,123.9,cancelled
+PU0122,2024-05-20,11:45,University Cafeteria,Community Center,prepared_meals,36.8,3.6,Casey Patel,0.7,44.2,139.8,completed
+PU0123,2024-03-21,14:45,Local Restaurant,City Food Bank,prepared_meals,40.6,9.6,Quinn Rivera,1.87,48.7,154.3,completed
+PU0124,2024-01-29,17:30,Farmers Market,Community Center,fresh_produce,5.0,22.4,Robin Kim,4.36,6.0,19.0,completed
+PU0125,2024-02-06,09:45,Grocery Store,City Food Bank,fresh_produce,56.5,4.0,Jordan Lee,0.78,67.8,214.7,completed
+PU0126,2024-03-09,13:45,Corporate Cafeteria,Senior Center,prepared_meals,25.0,17.2,Robin Kim,3.34,30.0,95.0,completed
+PU0127,2024-01-29,14:15,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,45.3,12.6,Cameron Davis,2.45,54.4,172.1,completed
+PU0128,2024-04-25,14:00,Bakery,Shelter Kitchen,meat,25.3,8.4,Casey Patel,1.63,30.4,96.1,completed
+PU0129,2024-04-06,07:00,Local Restaurant,Community Center,prepared_meals,49.0,9.2,Quinn Rivera,1.79,58.8,186.2,completed
+PU0130,2024-01-16,11:00,Grocery Store,Youth Outreach,baked_goods,57.7,23.3,Morgan Smith,4.53,69.2,219.3,rescheduled
+PU0131,2024-02-29,16:30,Local Restaurant,Community Center,prepared_meals,5.0,23.1,Casey Patel,4.49,6.0,19.0,completed
+PU0132,2024-06-25,08:45,University Cafeteria,City Food Bank,prepared_meals,37.2,17.5,Sam Chen,3.4,44.6,141.4,completed
+PU0133,2024-06-03,17:45,University Cafeteria,Youth Outreach,baked_goods,30.7,24.5,Quinn Rivera,4.76,36.8,116.7,completed
+PU0134,2024-03-02,10:45,Farmers Market,Shelter Kitchen,meat,56.8,4.0,Taylor Nguyen,0.78,68.2,215.8,completed
+PU0135,2024-06-11,11:15,Farmers Market,Youth Outreach,fresh_produce,9.6,21.5,Jamie Brown,4.18,11.5,36.5,completed
+PU0136,2024-01-16,08:00,University Cafeteria,City Food Bank,meat,25.8,16.9,Avery Clark,3.29,31.0,98.0,completed
+PU0137,2024-01-27,13:00,University Cafeteria,Shelter Kitchen,prepared_meals,24.9,13.5,Alex Martinez,2.62,29.9,94.6,cancelled
+PU0138,2024-03-20,19:15,Bakery,City Food Bank,meat,88.7,2.9,Riley Johnson,0.56,106.4,337.1,rescheduled
+PU0139,2024-02-17,07:45,University Cafeteria,City Food Bank,meat,86.8,14.3,Riley Johnson,2.78,104.2,329.8,completed
+PU0140,2024-03-16,11:45,Corporate Cafeteria,Community Center,baked_goods,65.1,5.8,Quinn Rivera,1.13,78.1,247.4,completed
+PU0141,2024-04-21,08:00,Grocery Store,Senior Center,dairy,66.1,14.7,Alex Martinez,2.86,79.3,251.2,completed
+PU0142,2024-01-14,09:45,Bakery,Shelter Kitchen,prepared_meals,5.0,20.5,Skylar Phillips,3.99,6.0,19.0,completed
+PU0143,2024-04-08,14:30,Corporate Cafeteria,Shelter Kitchen,prepared_meals,79.6,11.6,Skylar Phillips,2.26,95.5,302.5,completed
+PU0144,2024-02-24,14:30,Bakery,Shelter Kitchen,prepared_meals,61.5,23.9,Peyton Allen,4.65,73.8,233.7,completed
+PU0145,2024-01-12,09:45,Farmers Market,Youth Outreach,fresh_produce,49.6,1.9,Casey Patel,0.37,59.5,188.5,completed
+PU0146,2024-02-22,18:30,University Cafeteria,Senior Center,prepared_meals,9.6,6.6,Skylar Phillips,1.28,11.5,36.5,cancelled
+PU0147,2024-05-03,18:30,Corporate Cafeteria,Youth Outreach,baked_goods,8.4,24.9,Peyton Allen,4.84,10.1,31.9,completed
+PU0148,2024-02-02,07:00,Corporate Cafeteria,City Food Bank,prepared_meals,59.8,11.6,Riley Johnson,2.26,71.8,227.2,completed
+PU0149,2024-01-26,19:00,Corporate Cafeteria,Senior Center,prepared_meals,60.6,14.3,Skylar Phillips,2.78,72.7,230.3,completed
+PU0150,2024-05-16,11:00,Bakery,Youth Outreach,baked_goods,46.0,9.0,Robin Kim,1.75,55.2,174.8,completed
+PU0151,2024-01-16,13:45,Corporate Cafeteria,Senior Center,prepared_meals,62.1,24.6,Morgan Smith,4.78,74.5,236.0,cancelled
+PU0152,2024-04-23,07:45,University Cafeteria,Hope Homeless Shelter,prepared_meals,10.6,3.1,Jamie Brown,0.6,12.7,40.3,completed
+PU0153,2024-05-11,11:00,Bakery,City Food Bank,dairy,50.9,15.5,Casey Patel,3.01,61.1,193.4,completed
+PU0154,2024-04-01,17:15,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,5.0,2.1,Cameron Davis,0.41,6.0,19.0,completed
+PU0155,2024-06-19,13:15,University Cafeteria,Hope Homeless Shelter,prepared_meals,57.7,24.6,Robin Kim,4.78,69.2,219.3,cancelled
+PU0156,2024-05-11,09:00,Farmers Market,Community Center,fresh_produce,101.9,13.3,Peyton Allen,2.59,122.3,387.2,completed
+PU0157,2024-01-01,17:15,Bakery,City Food Bank,dairy,33.6,17.1,Morgan Smith,3.33,40.3,127.7,completed
+PU0158,2024-03-21,15:30,Farmers Market,Community Center,fresh_produce,42.0,18.2,Robin Kim,3.54,50.4,159.6,completed
+PU0159,2024-05-05,19:30,Grocery Store,Youth Outreach,baked_goods,83.1,14.5,Jamie Brown,2.82,99.7,315.8,rescheduled
+PU0160,2024-06-29,16:00,University Cafeteria,Hope Homeless Shelter,prepared_meals,47.2,21.8,Jordan Lee,4.24,56.6,179.4,completed
+PU0161,2024-02-04,11:00,Corporate Cafeteria,Hope Homeless Shelter,baked_goods,34.3,19.8,Sam Chen,3.85,41.2,130.3,completed
+PU0162,2024-03-24,10:15,Local Restaurant,Shelter Kitchen,prepared_meals,42.4,18.1,Jamie Brown,3.52,50.9,161.1,cancelled
+PU0163,2024-03-07,18:30,University Cafeteria,City Food Bank,fresh_produce,33.8,14.1,Alex Martinez,2.74,40.6,128.4,completed
+PU0164,2024-06-24,17:15,Grocery Store,Senior Center,dairy,50.5,1.1,Jamie Brown,0.21,60.6,191.9,completed
+PU0165,2024-03-31,15:30,Farmers Market,City Food Bank,fresh_produce,70.6,23.0,Jamie Brown,4.47,84.7,268.3,completed
+PU0166,2024-03-04,18:45,University Cafeteria,Senior Center,prepared_meals,21.8,19.5,Jamie Brown,3.79,26.2,82.8,completed
+PU0167,2024-02-11,16:15,University Cafeteria,Youth Outreach,prepared_meals,64.5,19.9,Casey Patel,3.87,77.4,245.1,rescheduled
+PU0168,2024-01-07,08:30,University Cafeteria,Hope Homeless Shelter,prepared_meals,40.1,8.4,Dana Lopez,1.63,48.1,152.4,completed
+PU0169,2024-04-09,18:00,Bakery,Community Center,baked_goods,77.5,13.0,Jamie Brown,2.53,93.0,294.5,completed
+PU0170,2024-04-02,08:15,Local Restaurant,Hope Homeless Shelter,prepared_meals,41.9,5.6,Alex Martinez,1.09,50.3,159.2,completed
+PU0171,2024-03-23,11:15,Corporate Cafeteria,Hope Homeless Shelter,baked_goods,86.5,7.3,Sam Chen,1.42,103.8,328.7,completed
+PU0172,2024-05-18,19:45,University Cafeteria,City Food Bank,fresh_produce,69.9,14.7,Avery Clark,2.86,83.9,265.6,completed
+PU0173,2024-01-13,08:30,Bakery,Community Center,baked_goods,73.8,23.2,Jordan Lee,4.51,88.6,280.4,completed
+PU0174,2024-01-13,11:15,Local Restaurant,City Food Bank,fresh_produce,21.2,18.3,Sam Chen,3.56,25.4,80.6,cancelled
+PU0175,2024-04-13,18:45,Farmers Market,Community Center,fresh_produce,14.4,13.5,Peyton Allen,2.62,17.3,54.7,completed
+PU0176,2024-02-25,18:00,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,15.1,4.1,Skylar Phillips,0.8,18.1,57.4,completed
+PU0177,2024-03-16,14:30,Local Restaurant,Youth Outreach,baked_goods,53.8,9.2,Robin Kim,1.79,64.6,204.4,completed
+PU0178,2024-05-13,18:00,Corporate Cafeteria,City Food Bank,fresh_produce,61.1,23.8,Peyton Allen,4.63,73.3,232.2,completed
+PU0179,2024-01-23,10:45,Grocery Store,Hope Homeless Shelter,baked_goods,19.2,5.8,Skylar Phillips,1.13,23.0,73.0,completed
+PU0180,2024-06-08,09:30,University Cafeteria,City Food Bank,fresh_produce,35.8,24.3,Jamie Brown,4.73,43.0,136.0,completed
+PU0181,2024-05-31,12:00,Local Restaurant,Senior Center,prepared_meals,56.4,13.8,Peyton Allen,2.68,67.7,214.3,completed
+PU0182,2024-03-17,15:00,Farmers Market,Senior Center,dairy,6.9,7.5,Alex Martinez,1.46,8.3,26.2,completed
+PU0183,2024-04-27,11:00,University Cafeteria,Senior Center,prepared_meals,33.8,20.4,Dana Lopez,3.97,40.6,128.4,completed
+PU0184,2024-02-26,10:45,Farmers Market,Community Center,fresh_produce,13.4,15.7,Robin Kim,3.05,16.1,50.9,completed
+PU0185,2024-02-20,11:30,Bakery,Senior Center,dairy,56.8,10.1,Skylar Phillips,1.96,68.2,215.8,completed
+PU0186,2024-06-26,13:30,Local Restaurant,Hope Homeless Shelter,prepared_meals,15.2,1.2,Robin Kim,0.23,18.2,57.8,completed
+PU0187,2024-05-25,07:00,Local Restaurant,Shelter Kitchen,prepared_meals,91.9,2.5,Riley Johnson,0.49,110.3,349.2,completed
+PU0188,2024-02-29,14:30,Bakery,Hope Homeless Shelter,baked_goods,17.0,15.8,Skylar Phillips,3.07,20.4,64.6,completed
+PU0189,2024-04-14,13:15,Farmers Market,Youth Outreach,fresh_produce,5.0,14.3,Taylor Nguyen,2.78,6.0,19.0,completed
+PU0190,2024-03-26,17:45,Grocery Store,Shelter Kitchen,meat,63.2,4.3,Cameron Davis,0.84,75.8,240.2,completed
+PU0191,2024-06-02,09:45,Farmers Market,Hope Homeless Shelter,prepared_meals,92.6,8.6,Skylar Phillips,1.67,111.1,351.9,completed
+PU0192,2024-01-01,19:15,University Cafeteria,City Food Bank,fresh_produce,45.7,21.2,Dana Lopez,4.12,54.8,173.7,cancelled
+PU0193,2024-06-13,11:00,Corporate Cafeteria,Senior Center,prepared_meals,5.0,1.8,Riley Johnson,0.35,6.0,19.0,completed
+PU0194,2024-02-19,15:15,Local Restaurant,Community Center,prepared_meals,34.3,16.4,Jamie Brown,3.19,41.2,130.3,completed
+PU0195,2024-06-23,08:15,Grocery Store,Senior Center,dairy,58.8,7.2,Casey Patel,1.4,70.6,223.4,completed
+PU0196,2024-05-08,11:15,Grocery Store,Community Center,fresh_produce,50.6,22.6,Peyton Allen,4.39,60.7,192.3,completed
+PU0197,2024-01-02,19:30,Grocery Store,Youth Outreach,baked_goods,43.6,4.8,Riley Johnson,0.93,52.3,165.7,completed
+PU0198,2024-01-07,07:00,Corporate Cafeteria,City Food Bank,meat,29.5,22.4,Jordan Lee,4.36,35.4,112.1,completed
+PU0199,2024-06-07,17:00,Farmers Market,Community Center,fresh_produce,27.8,11.5,Casey Patel,2.24,33.4,105.6,completed
+PU0200,2024-01-30,16:30,Grocery Store,City Food Bank,dairy,35.3,12.9,Skylar Phillips,2.51,42.4,134.1,completed
+PU0201,2024-03-30,19:00,Bakery,Shelter Kitchen,baked_goods,5.0,2.8,Avery Clark,0.54,6.0,19.0,completed
+PU0202,2024-06-19,13:15,Bakery,Senior Center,baked_goods,11.0,21.9,Robin Kim,4.26,13.2,41.8,completed
+PU0203,2024-05-30,12:45,Corporate Cafeteria,City Food Bank,baked_goods,74.6,3.5,Jordan Lee,0.68,89.5,283.5,rescheduled
+PU0204,2024-06-22,12:00,University Cafeteria,Community Center,prepared_meals,70.8,3.0,Jordan Lee,0.58,85.0,269.0,completed
+PU0205,2024-06-29,07:30,Grocery Store,Community Center,baked_goods,13.8,10.4,Robin Kim,2.02,16.6,52.4,completed
+PU0206,2024-05-16,18:00,Bakery,Senior Center,prepared_meals,52.3,6.5,Taylor Nguyen,1.26,62.8,198.7,completed
+PU0207,2024-03-20,17:00,Farmers Market,Shelter Kitchen,prepared_meals,78.6,23.1,Avery Clark,4.49,94.3,298.7,completed
+PU0208,2024-06-21,14:00,Corporate Cafeteria,Shelter Kitchen,prepared_meals,59.7,3.7,Avery Clark,0.72,71.6,226.9,completed
+PU0209,2024-06-15,09:15,Grocery Store,Youth Outreach,fresh_produce,75.9,10.8,Robin Kim,2.1,91.1,288.4,completed
+PU0210,2024-02-04,11:30,University Cafeteria,Hope Homeless Shelter,prepared_meals,67.8,17.3,Skylar Phillips,3.36,81.4,257.6,completed
+PU0211,2024-03-15,11:00,Bakery,Community Center,baked_goods,5.0,13.4,Morgan Smith,2.61,6.0,19.0,completed
+PU0212,2024-01-21,14:00,University Cafeteria,Shelter Kitchen,prepared_meals,23.9,19.7,Alex Martinez,3.83,28.7,90.8,completed
+PU0213,2024-05-26,07:45,Corporate Cafeteria,Senior Center,prepared_meals,77.2,7.9,Dana Lopez,1.54,92.6,293.4,completed
+PU0214,2024-03-16,11:00,Farmers Market,Hope Homeless Shelter,baked_goods,30.6,6.5,Cameron Davis,1.26,36.7,116.3,completed
+PU0215,2024-03-03,10:30,Corporate Cafeteria,Senior Center,prepared_meals,40.0,23.6,Riley Johnson,4.59,48.0,152.0,cancelled
+PU0216,2024-02-18,10:30,Farmers Market,Community Center,fresh_produce,45.3,15.7,Cameron Davis,3.05,54.4,172.1,completed
+PU0217,2024-02-10,07:00,Grocery Store,Hope Homeless Shelter,baked_goods,5.0,1.3,Robin Kim,0.25,6.0,19.0,completed
+PU0218,2024-02-27,16:00,University Cafeteria,Senior Center,prepared_meals,57.1,7.8,Avery Clark,1.52,68.5,217.0,completed
+PU0219,2024-03-27,14:30,Farmers Market,Community Center,fresh_produce,93.0,20.4,Quinn Rivera,3.97,111.6,353.4,completed
+PU0220,2024-02-04,10:45,Bakery,Youth Outreach,baked_goods,70.7,6.1,Jordan Lee,1.19,84.8,268.7,completed
+PU0221,2024-05-05,14:45,Corporate Cafeteria,Shelter Kitchen,prepared_meals,31.0,14.3,Jamie Brown,2.78,37.2,117.8,completed
+PU0222,2024-06-02,10:30,Farmers Market,Youth Outreach,fresh_produce,76.5,7.5,Dana Lopez,1.46,91.8,290.7,completed
+PU0223,2024-01-07,18:15,Local Restaurant,Hope Homeless Shelter,prepared_meals,34.2,16.6,Sam Chen,3.23,41.0,130.0,completed
+PU0224,2024-05-06,17:45,Bakery,Shelter Kitchen,meat,44.3,12.9,Avery Clark,2.51,53.2,168.3,completed
+PU0225,2024-02-18,11:00,Bakery,Hope Homeless Shelter,baked_goods,36.2,2.1,Sam Chen,0.41,43.4,137.6,completed
+PU0226,2024-03-27,07:15,Farmers Market,City Food Bank,fresh_produce,78.4,15.9,Morgan Smith,3.09,94.1,297.9,completed
+PU0227,2024-03-28,18:15,Local Restaurant,Shelter Kitchen,prepared_meals,40.5,4.6,Skylar Phillips,0.89,48.6,153.9,completed
+PU0228,2024-04-01,19:15,University Cafeteria,Shelter Kitchen,prepared_meals,83.9,3.4,Peyton Allen,0.66,100.7,318.8,completed
+PU0229,2024-04-10,08:00,Local Restaurant,Youth Outreach,baked_goods,27.6,19.9,Cameron Davis,3.87,33.1,104.9,completed
+PU0230,2024-01-21,11:15,Local Restaurant,Hope Homeless Shelter,prepared_meals,65.9,12.8,Robin Kim,2.49,79.1,250.4,completed
+PU0231,2024-05-03,19:00,Corporate Cafeteria,Hope Homeless Shelter,baked_goods,9.9,24.3,Peyton Allen,4.73,11.9,37.6,completed
+PU0232,2024-06-08,11:15,Grocery Store,City Food Bank,meat,39.4,8.4,Casey Patel,1.63,47.3,149.7,completed
+PU0233,2024-04-06,17:30,Farmers Market,Community Center,fresh_produce,46.8,20.6,Taylor Nguyen,4.01,56.2,177.8,completed
+PU0234,2024-03-03,17:30,Farmers Market,Hope Homeless Shelter,fresh_produce,60.8,5.5,Riley Johnson,1.07,73.0,231.0,completed
+PU0235,2024-03-11,15:45,University Cafeteria,Senior Center,prepared_meals,54.8,5.0,Jordan Lee,0.97,65.8,208.2,completed
+PU0236,2024-02-22,08:15,Bakery,Shelter Kitchen,meat,5.0,2.3,Jordan Lee,0.45,6.0,19.0,completed
+PU0237,2024-06-27,09:30,Local Restaurant,Youth Outreach,beverages,52.4,17.0,Cameron Davis,3.31,62.9,199.1,completed
+PU0238,2024-02-12,09:30,Corporate Cafeteria,Youth Outreach,baked_goods,35.3,22.4,Jamie Brown,4.36,42.4,134.1,rescheduled
+PU0239,2024-04-30,13:00,Farmers Market,Community Center,fresh_produce,33.8,19.2,Riley Johnson,3.73,40.6,128.4,cancelled
+PU0240,2024-05-19,14:30,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,48.6,22.8,Quinn Rivera,4.43,58.3,184.7,completed
+PU0241,2024-03-17,10:30,Grocery Store,City Food Bank,meat,50.7,19.3,Avery Clark,3.75,60.8,192.7,completed
+PU0242,2024-05-26,09:45,Bakery,Shelter Kitchen,meat,73.9,17.1,Jamie Brown,3.33,88.7,280.8,completed
+PU0243,2024-05-14,13:15,Grocery Store,City Food Bank,fresh_produce,40.5,22.6,Jamie Brown,4.39,48.6,153.9,completed
+PU0244,2024-05-20,17:30,Bakery,Hope Homeless Shelter,baked_goods,68.5,7.0,Avery Clark,1.36,82.2,260.3,completed
+PU0245,2024-05-26,14:00,Farmers Market,Shelter Kitchen,prepared_meals,55.7,7.7,Jamie Brown,1.5,66.8,211.7,completed
+PU0246,2024-05-24,15:45,Local Restaurant,Youth Outreach,beverages,76.6,8.0,Casey Patel,1.56,91.9,291.1,rescheduled
+PU0247,2024-05-23,19:30,Corporate Cafeteria,City Food Bank,meat,48.7,6.6,Robin Kim,1.28,58.4,185.1,completed
+PU0248,2024-01-17,11:30,Bakery,Community Center,baked_goods,42.6,23.0,Dana Lopez,4.47,51.1,161.9,completed
+PU0249,2024-01-23,15:30,Grocery Store,Hope Homeless Shelter,baked_goods,62.4,7.5,Dana Lopez,1.46,74.9,237.1,rescheduled
+PU0250,2024-05-25,10:45,Local Restaurant,Senior Center,prepared_meals,75.9,18.2,Casey Patel,3.54,91.1,288.4,completed
+PU0251,2024-04-24,18:00,University Cafeteria,Youth Outreach,fresh_produce,59.1,13.2,Quinn Rivera,2.57,70.9,224.6,completed
+PU0252,2024-01-18,13:00,Bakery,Hope Homeless Shelter,baked_goods,42.2,14.7,Taylor Nguyen,2.86,50.6,160.4,rescheduled
+PU0253,2024-06-23,12:00,Farmers Market,Community Center,fresh_produce,51.3,3.4,Dana Lopez,0.66,61.6,194.9,completed
+PU0254,2024-05-11,15:15,University Cafeteria,Shelter Kitchen,prepared_meals,60.2,17.3,Peyton Allen,3.36,72.2,228.8,completed
+PU0255,2024-05-12,16:00,Bakery,Youth Outreach,baked_goods,36.6,14.7,Cameron Davis,2.86,43.9,139.1,completed
+PU0256,2024-06-23,11:45,University Cafeteria,Shelter Kitchen,prepared_meals,52.3,24.0,Avery Clark,4.67,62.8,198.7,completed
+PU0257,2024-02-07,16:45,University Cafeteria,Youth Outreach,baked_goods,46.5,10.1,Sam Chen,1.96,55.8,176.7,completed
+PU0258,2024-06-26,11:30,Grocery Store,Community Center,fresh_produce,46.2,1.7,Sam Chen,0.33,55.4,175.6,completed
+PU0259,2024-01-20,10:15,Local Restaurant,Youth Outreach,baked_goods,32.7,6.2,Peyton Allen,1.21,39.2,124.3,completed
+PU0260,2024-03-06,13:00,University Cafeteria,Senior Center,prepared_meals,25.3,15.2,Riley Johnson,2.96,30.4,96.1,completed
+PU0261,2024-02-10,13:45,University Cafeteria,Senior Center,prepared_meals,86.1,9.4,Robin Kim,1.83,103.3,327.2,rescheduled
+PU0262,2024-03-28,11:45,Farmers Market,Senior Center,prepared_meals,42.7,19.1,Alex Martinez,3.71,51.2,162.3,completed
+PU0263,2024-05-19,13:45,Grocery Store,Community Center,fresh_produce,72.9,8.8,Dana Lopez,1.71,87.5,277.0,completed
+PU0264,2024-06-14,11:00,University Cafeteria,Hope Homeless Shelter,prepared_meals,102.3,24.4,Morgan Smith,4.74,122.8,388.7,completed
+PU0265,2024-06-09,18:00,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,43.3,3.0,Avery Clark,0.58,52.0,164.5,completed
+PU0266,2024-01-11,16:15,Grocery Store,Shelter Kitchen,meat,37.1,10.9,Jamie Brown,2.12,44.5,141.0,cancelled
+PU0267,2024-01-25,12:45,Bakery,Youth Outreach,baked_goods,9.2,10.0,Jordan Lee,1.94,11.0,35.0,completed
+PU0268,2024-03-17,16:30,Grocery Store,Senior Center,dairy,40.6,21.6,Riley Johnson,4.2,48.7,154.3,completed
+PU0269,2024-05-23,13:00,Bakery,Community Center,baked_goods,70.3,6.3,Avery Clark,1.22,84.4,267.1,rescheduled
+PU0270,2024-02-06,17:00,Bakery,Community Center,baked_goods,51.4,2.6,Riley Johnson,0.51,61.7,195.3,completed
+PU0271,2024-06-04,11:30,Grocery Store,Hope Homeless Shelter,baked_goods,35.4,21.4,Casey Patel,4.16,42.5,134.5,completed
+PU0272,2024-02-04,08:30,Local Restaurant,Senior Center,prepared_meals,14.6,23.6,Taylor Nguyen,4.59,17.5,55.5,completed
+PU0273,2024-03-11,11:00,University Cafeteria,Community Center,prepared_meals,89.3,6.7,Quinn Rivera,1.3,107.2,339.3,completed
+PU0274,2024-04-12,09:00,University Cafeteria,Senior Center,prepared_meals,26.9,22.6,Riley Johnson,4.39,32.3,102.2,completed
+PU0275,2024-03-03,15:15,Local Restaurant,Hope Homeless Shelter,prepared_meals,42.8,8.0,Dana Lopez,1.56,51.4,162.6,completed
+PU0276,2024-05-14,12:30,Grocery Store,Community Center,fresh_produce,33.0,9.5,Morgan Smith,1.85,39.6,125.4,completed
+PU0277,2024-06-08,08:00,University Cafeteria,City Food Bank,prepared_meals,67.1,13.7,Morgan Smith,2.66,80.5,255.0,completed
+PU0278,2024-05-12,12:30,Grocery Store,Hope Homeless Shelter,baked_goods,78.2,13.7,Riley Johnson,2.66,93.8,297.2,completed
+PU0279,2024-03-18,08:15,University Cafeteria,Hope Homeless Shelter,prepared_meals,5.0,7.0,Sam Chen,1.36,6.0,19.0,completed
+PU0280,2024-03-23,12:45,Grocery Store,City Food Bank,meat,86.2,3.3,Jordan Lee,0.64,103.4,327.6,completed
+PU0281,2024-04-05,10:00,Bakery,City Food Bank,baked_goods,70.9,14.6,Casey Patel,2.84,85.1,269.4,completed
+PU0282,2024-05-17,17:15,University Cafeteria,Shelter Kitchen,prepared_meals,60.8,7.7,Avery Clark,1.5,73.0,231.0,completed
+PU0283,2024-02-08,11:00,Corporate Cafeteria,Shelter Kitchen,prepared_meals,81.3,21.6,Jordan Lee,4.2,97.6,308.9,completed
+PU0284,2024-05-03,19:30,Grocery Store,Youth Outreach,fresh_produce,52.0,10.0,Riley Johnson,1.94,62.4,197.6,rescheduled
+PU0285,2024-02-15,07:45,Local Restaurant,Senior Center,prepared_meals,43.8,23.0,Riley Johnson,4.47,52.6,166.4,rescheduled
+PU0286,2024-04-09,11:45,Corporate Cafeteria,Hope Homeless Shelter,prepared_meals,51.2,1.1,Jordan Lee,0.21,61.4,194.6,completed
+PU0287,2024-04-19,12:00,University Cafeteria,Shelter Kitchen,prepared_meals,76.5,3.1,Casey Patel,0.6,91.8,290.7,cancelled
+PU0288,2024-05-18,14:15,Bakery,Shelter Kitchen,baked_goods,42.9,3.1,Jordan Lee,0.6,51.5,163.0,completed
+PU0289,2024-01-08,07:45,Bakery,Senior Center,prepared_meals,87.2,14.3,Quinn Rivera,2.78,104.6,331.4,completed
+PU0290,2024-05-03,07:15,Corporate Cafeteria,Community Center,baked_goods,77.7,3.3,Riley Johnson,0.64,93.2,295.3,completed
+PU0291,2024-03-31,11:00,Bakery,Youth Outreach,baked_goods,46.6,13.4,Skylar Phillips,2.61,55.9,177.1,completed
+PU0292,2024-02-16,13:15,Corporate Cafeteria,Community Center,baked_goods,43.9,16.1,Sam Chen,3.13,52.7,166.8,completed
+PU0293,2024-02-26,17:30,University Cafeteria,Youth Outreach,baked_goods,10.7,3.6,Avery Clark,0.7,12.8,40.7,cancelled
+PU0294,2024-02-07,15:15,Farmers Market,Community Center,fresh_produce,52.3,13.2,Robin Kim,2.57,62.8,198.7,completed
+PU0295,2024-02-22,17:15,Local Restaurant,Youth Outreach,baked_goods,63.4,3.2,Quinn Rivera,0.62,76.1,240.9,completed
+PU0296,2024-05-15,09:15,Local Restaurant,Senior Center,prepared_meals,79.6,17.5,Morgan Smith,3.4,95.5,302.5,completed
+PU0297,2024-03-30,10:15,Farmers Market,City Food Bank,fresh_produce,67.0,4.7,Skylar Phillips,0.91,80.4,254.6,completed
+PU0298,2024-04-10,16:45,Grocery Store,Senior Center,dairy,119.9,17.6,Sam Chen,3.42,143.9,455.6,completed
+PU0299,2024-05-01,15:30,Grocery Store,City Food Bank,dairy,71.7,22.7,Dana Lopez,4.41,86.0,272.5,completed
+PU0300,2024-06-28,16:30,Farmers Market,Hope Homeless Shelter,baked_goods,40.7,18.8,Cameron Davis,3.66,48.8,154.7,completed

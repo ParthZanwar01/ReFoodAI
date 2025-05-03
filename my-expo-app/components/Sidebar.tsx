@@ -10,7 +10,6 @@ const navLinks = [
   { label: 'Forecast Studio', route: '/forecast' },
   { label: 'Action Planner', route: '/planner' },
   { label: 'Pickup Tracker', route: '/tracker' },
-  { label: 'Impact Report', route: '/impact' },
   { label: 'Settings', route: '/settings' },
 ];
 

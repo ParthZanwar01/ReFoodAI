@@ -6,12 +6,14 @@ import { ReFoodLogo } from '@/components/ReFoodLogo';
 import { brandPrimary, accent, ink } from '@/constants/Colors';
 import { useWindowDimensions } from 'react-native';
 import { BlurView } from 'expo-blur';
+import { AuthContext } from '@/context/AuthContext';
 
 const SCREEN_WIDTH = Dimensions.get('window').width;
 
 export function PrologueHero() {
   const { width } = useWindowDimensions();
   const isMobile = width < 1024; // lg breakpoint
+  const { openAuthModal } = React.useContext(AuthContext);
 
   // Animation values
   const fadeAnim = React.useRef(new Animated.Value(0)).current;
@@ -86,7 +88,10 @@ export function PrologueHero() {
         duration: 100,
         useNativeDriver: true,
       }),
-    ]).start();
+    ]).start(() => {
+      // Open the authentication modal after animation
+      openAuthModal('signin');
+    });
   };
 
   const tiltStyle = {

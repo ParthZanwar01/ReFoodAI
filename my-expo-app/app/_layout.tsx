@@ -25,7 +25,19 @@ function AppShell() {
       <Sidebar />
       <View style={styles.mainContent}>
         <HeaderBar />
-        <Stack />
+        <Stack
+          screenOptions={{
+            headerStyle: {
+              backgroundColor: '#184C3A',
+            },
+            headerTintColor: '#fff',
+            headerTitleStyle: {
+              fontWeight: '600',
+              color: '#fff',
+            },
+            headerBackTitleVisible: false,
+          }}
+        />
       </View>
       <AuthModal />
     </View>

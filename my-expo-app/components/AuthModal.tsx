@@ -28,6 +28,19 @@ export function AuthModal() {
     }
   };
 
+  const handleDemoLogin = async () => {
+    setLoading(true);
+    setError('');
+    const ok = await signIn('test@example.com', 'password123');
+    if (!ok) setError('Demo login failed');
+    setLoading(false);
+    if (ok) {
+      setEmail('');
+      setPassword('');
+      closeAuthModal();
+    }
+  };
+
   if (!authModal.open) return null;
   return (
     <Modal visible transparent animationType="fade">
@@ -53,6 +66,33 @@ export function AuthModal() {
           <TouchableOpacity style={styles.button} onPress={handleSubmit} disabled={loading}>
             <Text style={styles.buttonText}>{authModal.mode === 'signin' ? 'Sign In' : 'Sign Up'}</Text>
           </TouchableOpacity>
+          
+          {/* Demo Login Button */}
+          <TouchableOpacity 
+            style={[styles.button, styles.demoButton]} 
+            onPress={() => handleDemoLogin()} 
+            disabled={loading}
+          >
+            <Text style={styles.demoButtonText}>🚀 Demo Login</Text>
+          </TouchableOpacity>
+          
+          <TouchableOpacity 
+            onPress={() => {
+              setEmail('');
+              setPassword('');
+              setError('');
+              closeAuthModal();
+              setTimeout(() => {
+                authModal.mode === 'signin' ? openAuthModal('signup') : openAuthModal('signin');
+              }, 100);
+            }}
+            style={styles.switchBtn}
+          >
+            <Text style={styles.switchText}>
+              {authModal.mode === 'signin' ? 'Need an account? Sign Up' : 'Have an account? Sign In'}
+            </Text>
+          </TouchableOpacity>
+          
           <TouchableOpacity onPress={closeAuthModal} style={styles.closeBtn}>
             <Text style={styles.closeText}>Cancel</Text>
           </TouchableOpacity>
@@ -109,9 +149,26 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     fontSize: 17,
   },
+  demoButton: {
+    backgroundColor: '#FF6B35',
+    marginTop: 8,
+  },
+  demoButtonText: {
+    color: '#fff',
+    fontWeight: '700',
+    fontSize: 17,
+  },
   error: {
     color: '#E53E3E',
     marginBottom: 8,
+    fontSize: 15,
+  },
+  switchBtn: {
+    marginTop: 12,
+  },
+  switchText: {
+    color: '#3DC86F',
+    fontWeight: '600',
     fontSize: 15,
   },
   closeBtn: {

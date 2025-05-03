@@ -94,6 +94,22 @@ export async function updatePickup(id: number, data: any) {
   });
 }
 
+// AI Pickup Optimization
+export async function optimizePickups(input: any) {
+  return apiFetch('/pickups/optimize', {
+    method: 'POST',
+    body: JSON.stringify(input),
+  });
+}
+
+export async function getLocationInsights(location: string) {
+  return apiFetch(`/pickups/location-insights/${encodeURIComponent(location)}`);
+}
+
+export async function getSystemPerformance() {
+  return apiFetch('/pickups/system-performance');
+}
+
 // Impact
 export async function getImpact() {
   return apiFetch('/impact');
